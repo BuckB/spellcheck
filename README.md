@@ -13,3 +13,6 @@ Referências:
   http://www.levenshtein.net/
   https://en.wikipedia.org/wiki/Levenshtein_distance
   https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance
+--
+  http://norvig.com/spell-correct.html
+  http://theyougen.blogspot.com.br/2010/02/faster-spelling-corrector.html
